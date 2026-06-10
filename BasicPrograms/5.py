@@ -1,0 +1,11 @@
+name = input('Enter Your Name : ')
+fname = input("Enter Father Name : ")
+mname = input("Enter Mother Name : ")
+age = input("Enter Age : ")
+gen = input("Enter Gender : ")
+college = input("Enter college : ")
+collegerating = input("Enter college Rating : ")
+
+print('===============Entered Details are===========')
+print(f"Name : {name}\nFather Name : {fname}\nMother Name : {mname}")
+print(f"Gender : {gen}\nCollege : {college}\nRating : {collegerating}")

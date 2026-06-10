@@ -1,0 +1,35 @@
+print is a output function which can be used
+1.Display the statements(strings)
+2.Values
+
+string : Anything written in single quotes or double quotes or
+triple quotes.
+
+1.Single QuotesExamples
+    'aa'
+    '444'
+    '6.7'
+    '*-*--'
+    '' -> empty string
+2.Double Quotes 
+
+"sfasfsfsf"
+"9999" 
+"999dfdsff**---"
+""  Empty
+
+3.Triple quotes  
+ """abc """
+ """034324324++++"""
+ '''sfsff23432794'''
+
+                                    Developments
+                    1.Software Development
+                            1.CUI(Character User Interface) or Command Line Interface or Console
+                            2.GUI(Graphical User Interface) or Windows Application  or Desktop 
+                                2.Web Development
+                                3.Mobile App Development
+
+input() :It is a predefined function which can be used  
+    1.Display the statements
+    2.It will read a string
