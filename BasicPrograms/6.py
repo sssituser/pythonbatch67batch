@@ -1,0 +1,6 @@
+name = input("Enter Name : ")
+fname = input("Enter Father Name : ")
+age = input("Enter Age : ")
+area = input("Enter Area : ")
+print("=========Entered Details are=========")
+print(f"Your Name : {name}\nYour Age : {age}\nArea : {area}")

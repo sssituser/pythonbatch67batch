@@ -1,0 +1,31 @@
+                        Operators
+                        1.Artmetic Operators
+                        2.Releational Operators
+                        3.Assignment Operators
+                        4.Logical Operators
+                        5.Identity Operators
+                        6.Membership Operators
+
+                + - * / // %
+                Releational >,<,>=,<=,==,!=    --> Boolean
+                Assignment operators =,+=,-=,*=,/= , //= , %= , **=
+                Logical Operators :  and   or   not
+
+
+                P      Q    R    P and Q and R
+                T      T    T       T
+                T      F    T       F 
+                F      T    T       F
+                F      F    T       F 
+
+                P      Q     R      P or Q  or R
+                T      T     T         T
+                T      T     F         T
+                T      F     T         T
+                F      F     T         T
+                F      F     F         F 
+
+
+                P  not P
+                T   F
+                F   T

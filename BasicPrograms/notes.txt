@@ -1,3 +1,5 @@
+
+https://github.com/sssituser/pythonbatch67batch
 print is a output function which can be used
 1.Display the statements(strings)
 2.Values
@@ -31,5 +33,25 @@ triple quotes.
                                 3.Mobile App Development
 
 input() :It is a predefined function which can be used  
-    1.Display the statements
+    1.Display the statements(string)
     2.It will read a string
+
+                           TypeCasting
+    Converting one to other data types is called Typecasting.
+    In order to convert to string to int,float,complex and etc... we use type casting functions
+    int() : It is a function which can convert string to int
+    float() : It is function which can convert string to float
+    complex() :                                string to complex
+    str() : It will conver other  data types to string
+
+        Assignment Operators
+            =  Assignment Operators
+            += Additive Assignment
+            -= subtractive Assignment
+            *= Multiplicative Assignment
+            /= Division Assignment
+            //=
+            %=
+            **=
+    Example :   x = 10   print(x)
+
