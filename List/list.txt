@@ -1,0 +1,13 @@
+                        Sequential Data Types
+    These are the data types which can hold group of heterogenious elements.
+    1. List :
+        It is collection heterogenious elements written in square braces
+        [].
+        List Allows duplicate values
+
+    2. Tuple
+    3. Set
+    4. Dict
+
+    dir() - > It is function which shows functions or methods present in
+    the given class.
