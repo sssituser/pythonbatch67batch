@@ -1,12 +1,8 @@
-# for i in range(1,10):
-#     print(i)
+list = [23,45,67,89,90,98,45,88,33,44,55,77]
 
-# for i in range(10,0,-1):
-#     print(i)
-    
+print(list[0:3])
+print(list[0:5:2])
+print(list[:-6:-1])
+print(list[::-1])
 
-for i in range(-4,0,1):
-    print(i,end=" ")
-print("")
-for i in range(-1,-5,-1):
-    print(i,end="")
+

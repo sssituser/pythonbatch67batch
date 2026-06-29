@@ -11,3 +11,7 @@
 
     dir() - > It is function which shows functions or methods present in
     the given class.
+
+        : slice operator
+
+        li[start:end:step]

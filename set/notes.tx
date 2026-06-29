@@ -1,0 +1,12 @@
+add()
+update()
+copy()
+pop()
+remove()
+discard()
+clear()
+union() or |
+intersection() or &
+difference() or -
+symmetric_difference() or ^
+frozenset()
