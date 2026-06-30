@@ -1,0 +1,10 @@
+d ={}
+print(type(d))
+d1 = dict()
+print(type(d1))
+li = list()
+print(type(li))
+tu = tuple()
+print(type(tu))
+s = set()
+print(type(s))
