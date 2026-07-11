@@ -1,25 +1,20 @@
 It is a self containted block of insructions which
 can perform particular task is a called function.
-
 Every function will return a values
 like int,float,string,list,tuple,....None
-
 Every function take paramters like None, int,float......
 functions are two types
 1. Predefined functions
-    The functions which are already defined  are called predefined functions
+    The functions which are already defined  are called predefined functions    
     Example:
-        print()         input()         len()          max()
-        min()          sum()             upper()           lower()
-        isdigit()          isalpha()          split()         index()
+        print()        input()         len()          max()
+        min()          sum()           upper()        lower()
+        isdigit()      isalpha()       split()        index()
 2. Uesrdefined functions
     The functions which are defined by the user(Developer) can be called    
     userdefined functions.
-
     In order to define the function we use sytax
-
     def  functionname(parameter):
         Intructions
         return 
-
     Consume the functions

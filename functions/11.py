@@ -1,0 +1,2 @@
+res = ''
+print(dir(res))
