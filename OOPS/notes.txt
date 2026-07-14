@@ -1,0 +1,83 @@
+Python is an object oriented Programming language
+
+Since It follows 4 pillars of oops
+1.Encapsulation
+2.Abstraction
+3.Inheritance
+4.Polymorphim
+5.class:
+    It is the blue print of the object.
+                     or
+    Class can hold data types methods , these are called class members
+    these are of two types..
+
+
+    class <className>:
+        datatypes
+        methods
+
+    static members (Class variables)
+    
+        and non 
+    
+  non  static members (Instnce variables)
+
+  static members can be accessed using class name.
+  non stati members can be accessed using object
+6.Object : It is the run time entity or realtime entity     
+                or  
+            It is the instance of class Object
+    syx:
+    
+                    className()
+
+        refvariables = className()
+
+
+variables of three types
+1.class variables or static variables
+2.Instance variables or non static variables
+3.local variables
+
+static mebers of clas can be accesed using  className
+
+=================================variables=========================
+
+1. Class variables ---> static variables
+    The variables which are declared inside class.
+    class variables can be accesed in any method of a class.
+2. instance variables --> non static variables
+    These variables can be accesed in any non static method
+    The variables which are declared with self keyword non static variables or instance variables
+3. local variables ---> These parameter inside the method
+    These variables which can be accesed with in that particular  method
+===================================Methods============================
+Metods are of two types :
+                    Static methods: 
+                        The methods with out self keyword can be called static methods
+
+                    non static methods :
+                        The methods which are declared with self keyword is non static methods.
+
+Class members : Methods and Data types inside the class called class members
+These members are two types
+static members :
+        Static members can be accesed using classname.
+non static members
+       non static members can be accesed using object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
