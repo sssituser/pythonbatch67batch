@@ -65,11 +65,36 @@ static members :
         Static members can be accesed using classname.
 non static members
        non static members can be accesed using object
+=================================================================
+Constructor : It is a special method, it can be writeen
+def __init__()
+
+It is used to create an object.
+Constructor will not return any value.
+It can be  invoked when the object is created.
+
+Constructor are of different types.
+    1. Constructor with out parameter : which is default constructor.
+    2. Constructor with Parameters.
+
+In a class we can have only one constructor.
 
 
 
 
 
+Inheritance : Reusability of a class is called  Inheritance.
+It is of different types
+                or
+
+Acquiring Properties from a parent class to a child class.
+
+1.Single Inheritance
+    Deriving a single child class from a single Parent class.
+2.Multi level Inheritance
+3.Multiple Inheritance
+4.Hierarchical Inheritance
+5.Hybrid Inheritance
 
 
 

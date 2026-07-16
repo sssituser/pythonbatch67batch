@@ -1,0 +1,5 @@
+1. Multi-level Inhiertance :
+        Deriving a child class for single inheritance.
+                    or
+        Deriving child class for derived class.
+
