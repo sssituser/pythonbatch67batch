@@ -1,0 +1,49 @@
+Error Handling :
+    Error : It is a mistake in the program which will not allow the application
+    to execute.
+
+    Errros are of two types :
+
+    1.Compilation Error : The errors which can occur at compilation time is called 
+      Compilation Error. Examples:
+      Syntax Error  missing :
+          IndentationError
+          Solution : Provide Proper syntax.
+    2.Run time Error :
+        The errors which can occur during the exection of the application are called runtime
+        errors. 
+        Runtime Errors are also called Exceptions.
+
+        Exceptions are predefined classes.
+        ValueError
+    Exception Handlidling :
+            In order to avoid abnormal termiation of the appilcation, we use exeception 
+            handling.
+            In Exception hanlding we use try,except,and inally.y 
+
+        try : It is a block, in which we write risky(the code in which we expect an excpetion) code.
+        try block tries execute the code . If it is not , It raises the exectpion object internlly.
+        try block can't be writeen ideally. try blok must be followed with except or finally bolck
+        excpt: it is a block which can catch the exeptions object which are rasied in the try block
+        interally.
+
+        except block is of two types 
+        1. common   excpet   block
+                It is block which can catch all exception objects is called common except block.
+                this block can be with Exception or with out Exception class.
+
+        2. Invlidual excpet block.
+                It is an except block which can catch Particular exception object
+
+       3. rasie : It is statmenet which used to raises th known excpetion object externlly
+
+       4. finally: It is a blok which is used to generate common message to the end user.
+
+Custom Exceptions : The exceptions which are created by the user called CustomExceptions.
+
+Step to Create Exception:
+        Create class.
+        Inherit Exception class
+        Create constructor.
+consuming the Custom Exception 
+
