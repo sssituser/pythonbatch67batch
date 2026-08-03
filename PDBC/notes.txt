@@ -1,0 +1,13 @@
+cursor: It is an object which is reponsible for
+holding and executing the query.
+
+Cursor object created by using connection object.
+
+execute method can be used to exucute query which is given in the
+cursor object.
+
+
+fetchall() : It will show all records in the form tuples which are present in the
+data base.
+
+fetchone() : This metod can be used to find a single record from the database

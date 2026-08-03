@@ -45,5 +45,8 @@ Step to Create Exception:
         Create class.
         Inherit Exception class
         Create constructor.
-consuming the Custom Exception 
+consuming the Custom Exception
+
+super() : It is a methods which can be used access parent properites and methods as well
+in order to send the data to the parent class constructor we super method
 
