@@ -1,0 +1,20 @@
+What is a file  : It is the collection information having title is called
+as file.
+
+In order to store the information , in order to read the information from 
+the file we use file handling concept.
+
+In order to work with file handling we need use a predefined function called
+open(path,mode)
+
+In order to create folders , delete folders we
+use module called os.
+
+This module consists of mkdir function to create folders
+To Create Nested folders we makedirs
+
+
+In order to delete an empty folder rmdir
+
+In order to delete Folders with Files and Subfolders
+we use shutil.remtree

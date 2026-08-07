@@ -1,0 +1,13 @@
+Multitasking
+Executing multiple tasks simultaniously is called as multitasking.
+Multitasking can be achieved by
+==============Process based Multitasking ====================
+Executing multiple tasks like playing audio and printing,sending mails etc can be done at at time.
+In process based multitasking every process independent to each other. 
+Every process can occupy individual memories.
+Every porcess uses is single thread.
+Process based multi tasking can be achieved at OS
+===========Thread based Multitasking================
+Executing multiple threads at time is called thread-based multitasking.
+It is also called as multithreading.
+Multithreading can be achieved at programming level.
